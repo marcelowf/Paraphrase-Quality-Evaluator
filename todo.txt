@@ -1,0 +1,16 @@
+BERTScore
+• Testar o BERTScore no cenário a seguir:
+• Ler o arquivo frases.txt, contendo uma lista de frases originais.
+• Gerar uma versão parafraseada automaticamente (simples, usando regras ou biblioteca):
+    • Uma das formas mais simples de gerar um novo texto seria traduzir o texto original para uma outra língua (japonês, russo, ...) e depois traduzir novamente para o PT-BR.
+• Calcular o BERTScore entre a frase original e a modificada.
+
+BERTScore (cont.)
+• Comparar os resultados obtidos com o mesmo cálculo feito utilizando Sentence Transformers (SBERT).
+• Gerar uma tabela comparativa entre os resultados obtidos pelos dois métodos.
+
+Critérios de avaliação:
+• Uso correto do BERTScore, SBERT, etc.
+• Originalidade do processo de geração do novo texto (paráfrase).
+• Complexidade da solução implementada.
+• Funcionamento correto das funcionalidades exigidas.
